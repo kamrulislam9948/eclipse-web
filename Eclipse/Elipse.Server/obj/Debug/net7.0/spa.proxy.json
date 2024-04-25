@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "H:\\C-Sharp\\Test Angular\\BootstrapTemplet\\Eclipse\\Elipse.Server\\..\\elipse.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

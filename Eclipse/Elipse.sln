@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elipse.Server", "Elipse.Server\Elipse.Server.csproj", "{1779B441-1B6D-4ABB-B3FB-9A93771A54A6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "elipse.client", "elipse.client\elipse.client.esproj", "{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1779B441-1B6D-4ABB-B3FB-9A93771A54A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1779B441-1B6D-4ABB-B3FB-9A93771A54A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1779B441-1B6D-4ABB-B3FB-9A93771A54A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1779B441-1B6D-4ABB-B3FB-9A93771A54A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305D22E5-7643-4CE5-BA6C-D24A8B594ED2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F38FAB-6DF3-489F-A831-40CE746354DB}
+	EndGlobalSection
+EndGlobal
